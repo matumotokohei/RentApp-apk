@@ -5,7 +5,7 @@
 
 使い方
 1.リンクを開いてスクショのように、... をタップDownloadをクリック  
-https://github.com/matumotokohei/RentApp-apk/blob/main/rent-app-dont-min-debug.apk  
+https://github.com/matumotokohei/RentApp-apk/blob/main/rent-app-v2-debug.apk
 2.このアプリをインストールで出てくるインストールをクリック  　
 
 ![ui](https://user-images.githubusercontent.com/70370905/211135156-89f2aac6-b756-40b8-97b9-1dff5d0da9a9.jpeg)
